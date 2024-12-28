@@ -1,0 +1,11 @@
+[2024-12-19 08:57:54,387] 23 root - INFO - Data Ingestion Started
+[2024-12-19 08:57:54,395] 36 root - INFO - Dataset loaded successfully with shape: (1030, 9)
+[2024-12-19 08:57:54,403] 41 root - INFO - Successfully saved raw data to Artifacts folder.
+[2024-12-19 08:57:54,404] 44 root - INFO - Performing train-test split.
+[2024-12-19 08:57:54,409] 50 root - INFO - Train-test split completed successfully.
+[2024-12-19 08:57:54,417] 55 root - INFO - Successfully saved train and test data to Artifacts folder.
+[2024-12-19 08:57:54,417] 57 root - INFO - Data ingestion completed successfully.
+[2024-12-19 08:57:54,424] 26 root - INFO - Data transformation started
+[2024-12-19 08:57:54,424] 40 root - INFO - Preprocessing pipeline created.
+[2024-12-19 08:57:54,425] 89 root - ERROR - Error occurred during data transformation
+[2024-12-19 08:57:54,425] 20 root - ERROR - Custom Exception: Error occurred in Python script name [e:\data_science _master\ml\prac_project\concrete_compressive_strenht_prediction\src\Concrete_Strenght_prediction\components\data_transformation.py] line number [69] error message [A given column is not a column of the dataframe]

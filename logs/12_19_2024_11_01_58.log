@@ -1,0 +1,21 @@
+[2024-12-19 11:02:00,630] 23 root - INFO - Data Ingestion Started
+[2024-12-19 11:02:00,638] 36 root - INFO - Dataset loaded successfully with shape: (1030, 9)
+[2024-12-19 11:02:00,653] 41 root - INFO - Successfully saved raw data to Artifacts folder.
+[2024-12-19 11:02:00,653] 44 root - INFO - Performing train-test split.
+[2024-12-19 11:02:00,655] 50 root - INFO - Train-test split completed successfully.
+[2024-12-19 11:02:00,663] 55 root - INFO - Successfully saved train and test data to Artifacts folder.
+[2024-12-19 11:02:00,663] 57 root - INFO - Data ingestion completed successfully.
+[2024-12-19 11:02:00,664] 58 root - INFO - Outlier detection started
+[2024-12-19 11:02:00,668] 68 root - INFO - Outliers removed: 72 rows removed.
+[2024-12-19 11:02:00,670] 58 root - INFO - Outlier detection started
+[2024-12-19 11:02:00,675] 68 root - INFO - Outliers removed: 27 rows removed.
+[2024-12-19 11:02:00,675] 92 root - INFO - Feature columns detected: ['cement', 'blast_furnace_slag', 'fly_ash', 'water', 'superplasticizer', 'coarse_aggregate', 'fine_aggregate ', 'age']
+[2024-12-19 11:02:00,677] 101 root - INFO - Input training data shape: (700, 8)
+[2024-12-19 11:02:00,677] 102 root - INFO - Input testing data shape: (231, 8)
+[2024-12-19 11:02:00,677] 32 root - INFO - Data transformation started
+[2024-12-19 11:02:00,677] 40 root - INFO - Preprocessing pipeline created.
+[2024-12-19 11:02:00,695] 109 root - INFO - Applying preprocessing on train and test datasets
+[2024-12-19 11:02:00,698] 122 root - INFO - Preprocessor object saved at: Artifacts\preprocessor.pkl
+[2024-12-19 11:02:00,698] 28 root - INFO - Splitting dependent and independent variables from the transformed data
+[2024-12-19 11:02:03,092] 60 root - INFO - Performance: RMSE=5.28, MAE=3.42, R²=89.93%
+[2024-12-19 11:02:03,170] 65 root - INFO - Model training completed successfully. Model performance: R²=89.93%

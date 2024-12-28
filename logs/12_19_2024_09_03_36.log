@@ -1,0 +1,14 @@
+[2024-12-19 09:03:38,922] 23 root - INFO - Data Ingestion Started
+[2024-12-19 09:03:38,957] 36 root - INFO - Dataset loaded successfully with shape: (1030, 9)
+[2024-12-19 09:03:38,980] 41 root - INFO - Successfully saved raw data to Artifacts folder.
+[2024-12-19 09:03:38,981] 44 root - INFO - Performing train-test split.
+[2024-12-19 09:03:38,991] 50 root - INFO - Train-test split completed successfully.
+[2024-12-19 09:03:39,021] 55 root - INFO - Successfully saved train and test data to Artifacts folder.
+[2024-12-19 09:03:39,022] 57 root - INFO - Data ingestion completed successfully.
+[2024-12-19 09:03:39,023] 68 root - INFO - Feature columns detected: ['cement', 'blast_furnace_slag', 'fly_ash', 'water', 'superplasticizer', 'coarse_aggregate', 'fine_aggregate ', 'age']
+[2024-12-19 09:03:39,028] 77 root - INFO - Input training data shape: (772, 8)
+[2024-12-19 09:03:39,029] 78 root - INFO - Input testing data shape: (258, 8)
+[2024-12-19 09:03:39,029] 34 root - INFO - Data transformation started
+[2024-12-19 09:03:39,029] 42 root - INFO - Preprocessing pipeline created.
+[2024-12-19 09:03:39,049] 85 root - INFO - Applying preprocessing on train and test datasets
+[2024-12-19 09:03:39,053] 98 root - INFO - Preprocessor object saved at: Artifacts\preprocessor.pkl

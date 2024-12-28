@@ -1,0 +1,13 @@
+[2024-12-19 19:39:34,083] 97 werkzeug - WARNING -  * Debugger is active!
+[2024-12-19 19:39:34,143] 97 werkzeug - INFO -  * Debugger PIN: 456-753-833
+[2024-12-19 19:39:35,902] 97 werkzeug - INFO - 127.0.0.1 - - [19/Dec/2024 19:39:35] "GET / HTTP/1.1" 200 -
+[2024-12-19 19:39:46,066] 15 root - INFO - Loading model from: Artifacts/model.pkl
+[2024-12-19 19:39:46,066] 35 root - INFO - Loading object from: Artifacts/model.pkl
+[2024-12-19 19:39:46,743] 18 root - INFO - Loading preprocessor from: Artifacts/preprocessor.pkl
+[2024-12-19 19:39:46,744] 35 root - INFO - Loading object from: Artifacts/preprocessor.pkl
+[2024-12-19 19:39:46,784] 29 root - INFO - Preprocessing the data
+[2024-12-19 19:39:46,821] 37 root - ERROR - Error in preprocessing data
+[2024-12-19 19:39:46,828] 38 root - ERROR - Exception details: "['fine_aggregate '] not in index"
+[2024-12-19 19:39:46,828] 51 root - ERROR - Error in making predictions
+[2024-12-19 19:39:46,829] 52 root - ERROR - Exception details: Error occurred in Python script name [e:\data_science _master\ml\prac_project\concrete_compressive_strenht_prediction\src\Concrete_Strenght_prediction\pipelines\prediction_pipeline.py] line number [32] error message ["['fine_aggregate '] not in index"]
+[2024-12-19 19:39:46,847] 97 werkzeug - INFO - 127.0.0.1 - - [19/Dec/2024 19:39:46] "POST / HTTP/1.1" 200 -

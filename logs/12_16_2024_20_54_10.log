@@ -1,0 +1,4 @@
+[2024-12-16 20:54:11,776] 29 root - INFO - Data Ingestion Started
+[2024-12-16 20:54:11,781] 34 root - INFO - I have read the data succesfully
+[2024-12-16 20:54:11,782] 54 root - ERROR - Exception occurred during the data ingestion stage
+[2024-12-16 20:54:11,782] 14 root - ERROR - Custom Exception: Error occurred in Python script name [E:\Data_Science _master\ML\prac_project\Concrete Compressive Strength Prediction\src\concrete_strenght_prediction\components\data_ingestion.py] line number [37] error message ['DataIngistion' object has no attribute 'DataIngestion_config']

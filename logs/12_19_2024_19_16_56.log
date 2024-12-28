@@ -1,0 +1,9 @@
+[2024-12-19 19:16:57,510] 97 werkzeug - WARNING -  * Debugger is active!
+[2024-12-19 19:16:57,530] 97 werkzeug - INFO -  * Debugger PIN: 456-753-833
+[2024-12-19 19:17:18,264] 97 werkzeug - INFO - 127.0.0.1 - - [19/Dec/2024 19:17:18] "GET / HTTP/1.1" 200 -
+[2024-12-19 19:17:34,394] 15 root - INFO - Loading model from: Artifacts/model.pkl
+[2024-12-19 19:17:34,750] 18 root - INFO - Loading preprocessor from: Artifacts/preprocessor.pkl
+[2024-12-19 19:17:34,770] 29 root - INFO - Preprocessing the data
+[2024-12-19 19:17:34,771] 33 root - ERROR - Error in preprocessing data
+[2024-12-19 19:17:34,771] 46 root - ERROR - Error in making predictions
+[2024-12-19 19:17:34,778] 97 werkzeug - INFO - 127.0.0.1 - - [19/Dec/2024 19:17:34] "POST / HTTP/1.1" 200 -

@@ -1,0 +1,10 @@
+[2024-12-19 19:22:16,910] 97 werkzeug - WARNING -  * Debugger is active!
+[2024-12-19 19:22:16,932] 97 werkzeug - INFO -  * Debugger PIN: 456-753-833
+[2024-12-19 19:22:20,670] 97 werkzeug - INFO - 127.0.0.1 - - [19/Dec/2024 19:22:20] "GET / HTTP/1.1" 200 -
+[2024-12-19 19:22:31,572] 15 root - INFO - Loading model from: Artifacts/model.pkl
+[2024-12-19 19:22:31,896] 18 root - INFO - Loading preprocessor from: Artifacts/preprocessor.pkl
+[2024-12-19 19:22:31,914] 29 root - INFO - Preprocessing the data
+[2024-12-19 19:22:31,915] 33 root - ERROR - Error in preprocessing data
+[2024-12-19 19:22:31,916] 46 root - ERROR - Error in making predictions
+[2024-12-19 19:22:31,922] 97 werkzeug - INFO - 127.0.0.1 - - [19/Dec/2024 19:22:31] "POST / HTTP/1.1" 200 -
+[2024-12-19 19:26:13,646] 97 werkzeug - INFO -  * Detected change in 'e:\\data_science _master\\ml\\prac_project\\concrete_compressive_strenht_prediction\\src\\Concrete_Strenght_prediction\\pipelines\\prediction_pipeline.py', reloading

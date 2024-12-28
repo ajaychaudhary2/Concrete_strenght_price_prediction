@@ -1,0 +1,20 @@
+[2024-12-19 19:28:56,334] 97 werkzeug - WARNING -  * Debugger is active!
+[2024-12-19 19:28:56,358] 97 werkzeug - INFO -  * Debugger PIN: 456-753-833
+[2024-12-19 19:28:57,602] 15 root - INFO - Loading model from: Artifacts/model.pkl
+[2024-12-19 19:28:57,603] 35 root - INFO - Loading object from: Artifacts/model.pkl
+[2024-12-19 19:28:57,876] 18 root - INFO - Loading preprocessor from: Artifacts/preprocessor.pkl
+[2024-12-19 19:28:57,876] 35 root - INFO - Loading object from: Artifacts/preprocessor.pkl
+[2024-12-19 19:28:57,889] 29 root - INFO - Preprocessing the data
+[2024-12-19 19:28:57,890] 33 root - ERROR - Error in preprocessing data
+[2024-12-19 19:28:57,891] 46 root - ERROR - Error in making predictions
+[2024-12-19 19:28:57,903] 97 werkzeug - INFO - 127.0.0.1 - - [19/Dec/2024 19:28:57] "POST / HTTP/1.1" 200 -
+[2024-12-19 19:29:01,024] 97 werkzeug - INFO - 127.0.0.1 - - [19/Dec/2024 19:29:01] "GET / HTTP/1.1" 200 -
+[2024-12-19 19:29:09,127] 15 root - INFO - Loading model from: Artifacts/model.pkl
+[2024-12-19 19:29:09,128] 35 root - INFO - Loading object from: Artifacts/model.pkl
+[2024-12-19 19:29:09,224] 18 root - INFO - Loading preprocessor from: Artifacts/preprocessor.pkl
+[2024-12-19 19:29:09,225] 35 root - INFO - Loading object from: Artifacts/preprocessor.pkl
+[2024-12-19 19:29:09,225] 29 root - INFO - Preprocessing the data
+[2024-12-19 19:29:09,226] 33 root - ERROR - Error in preprocessing data
+[2024-12-19 19:29:09,227] 46 root - ERROR - Error in making predictions
+[2024-12-19 19:29:09,233] 97 werkzeug - INFO - 127.0.0.1 - - [19/Dec/2024 19:29:09] "POST / HTTP/1.1" 200 -
+[2024-12-19 19:30:28,936] 97 werkzeug - INFO -  * Detected change in 'E:\\Data_Science _master\\ML\\prac_project\\Concrete_Compressive_Strenht_Prediction\\src\\Concrete_Strenght_prediction\\pipelines\\prediction_pipeline.py', reloading

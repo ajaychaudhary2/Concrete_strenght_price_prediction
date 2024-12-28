@@ -1,0 +1,10 @@
+Metadata-Version: 2.1
+Name: Concrete_Strenght_prediction
+Version: 0.0.1
+Summary: Concrete Strenght prediction
+Author: Ajay Chaudhary
+Author-email: ajaych2822@gmail.com
+Requires-Python: >=3.6
+Requires-Dist: scikit-learn
+Requires-Dist: pandas
+Requires-Dist: numpy

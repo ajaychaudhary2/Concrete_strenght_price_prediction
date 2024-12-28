@@ -1,0 +1,14 @@
+[2024-12-19 19:30:58,536] 97 werkzeug - WARNING -  * Debugger is active!
+[2024-12-19 19:30:58,566] 97 werkzeug - INFO -  * Debugger PIN: 456-753-833
+[2024-12-19 19:31:00,050] 97 werkzeug - INFO - 127.0.0.1 - - [19/Dec/2024 19:31:00] "GET / HTTP/1.1" 200 -
+[2024-12-19 19:31:09,796] 15 root - INFO - Loading model from: Artifacts/model.pkl
+[2024-12-19 19:31:09,797] 35 root - INFO - Loading object from: Artifacts/model.pkl
+[2024-12-19 19:31:10,089] 18 root - INFO - Loading preprocessor from: Artifacts/preprocessor.pkl
+[2024-12-19 19:31:10,089] 35 root - INFO - Loading object from: Artifacts/preprocessor.pkl
+[2024-12-19 19:31:10,106] 29 root - INFO - Preprocessing the data
+[2024-12-19 19:31:10,119] 37 root - ERROR - Error in preprocessing data
+[2024-12-19 19:31:10,120] 38 root - ERROR - Exception details: "['fine_aggregate '] not in index"
+[2024-12-19 19:31:10,120] 51 root - ERROR - Error in making predictions
+[2024-12-19 19:31:10,120] 52 root - ERROR - Exception details: Error occurred in Python script name [e:\data_science _master\ml\prac_project\concrete_compressive_strenht_prediction\src\Concrete_Strenght_prediction\pipelines\prediction_pipeline.py] line number [32] error message ["['fine_aggregate '] not in index"]
+[2024-12-19 19:31:10,127] 97 werkzeug - INFO - 127.0.0.1 - - [19/Dec/2024 19:31:10] "POST / HTTP/1.1" 200 -
+[2024-12-19 19:38:51,458] 97 werkzeug - INFO -  * Detected change in 'e:\\data_science _master\\ml\\prac_project\\concrete_compressive_strenht_prediction\\src\\Concrete_Strenght_prediction\\pipelines\\prediction_pipeline.py', reloading

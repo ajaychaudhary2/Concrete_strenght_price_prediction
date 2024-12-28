@@ -1,0 +1,73 @@
+[2024-12-28 09:26:01,505] 97 werkzeug - WARNING -  * Debugger is active!
+[2024-12-28 09:26:01,570] 97 werkzeug - INFO -  * Debugger PIN: 845-214-522
+[2024-12-28 09:26:03,611] 97 werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 09:26:03] "GET / HTTP/1.1" 200 -
+[2024-12-28 09:26:13,317] 15 root - INFO - Loading model from: Artifacts/model.pkl
+[2024-12-28 09:26:13,339] 35 root - INFO - Loading object from: Artifacts/model.pkl
+[2024-12-28 09:26:14,035] 18 root - INFO - Loading preprocessor from: Artifacts/preprocessor.pkl
+[2024-12-28 09:26:14,237] 35 root - INFO - Loading object from: Artifacts/preprocessor.pkl
+[2024-12-28 09:26:14,277] 29 root - INFO - Preprocessing the data
+[2024-12-28 09:26:14,402] 48 root - INFO - Prediction successful
+[2024-12-28 09:26:14,420] 97 werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 09:26:14] "POST / HTTP/1.1" 200 -
+[2024-12-28 09:28:02,873] 15 root - INFO - Loading model from: Artifacts/model.pkl
+[2024-12-28 09:28:02,874] 35 root - INFO - Loading object from: Artifacts/model.pkl
+[2024-12-28 09:28:02,948] 18 root - INFO - Loading preprocessor from: Artifacts/preprocessor.pkl
+[2024-12-28 09:28:02,948] 35 root - INFO - Loading object from: Artifacts/preprocessor.pkl
+[2024-12-28 09:28:02,949] 29 root - INFO - Preprocessing the data
+[2024-12-28 09:28:02,980] 48 root - INFO - Prediction successful
+[2024-12-28 09:28:02,990] 97 werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 09:28:02] "POST / HTTP/1.1" 200 -
+[2024-12-28 09:28:05,301] 97 werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 09:28:05] "GET / HTTP/1.1" 200 -
+[2024-12-28 09:29:12,740] 15 root - INFO - Loading model from: Artifacts/model.pkl
+[2024-12-28 09:29:12,741] 35 root - INFO - Loading object from: Artifacts/model.pkl
+[2024-12-28 09:29:12,830] 18 root - INFO - Loading preprocessor from: Artifacts/preprocessor.pkl
+[2024-12-28 09:29:12,831] 35 root - INFO - Loading object from: Artifacts/preprocessor.pkl
+[2024-12-28 09:29:12,831] 29 root - INFO - Preprocessing the data
+[2024-12-28 09:29:12,880] 48 root - INFO - Prediction successful
+[2024-12-28 09:29:12,886] 97 werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 09:29:12] "POST / HTTP/1.1" 200 -
+[2024-12-28 09:29:25,761] 97 werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 09:29:25] "GET / HTTP/1.1" 200 -
+[2024-12-28 09:29:31,362] 15 root - INFO - Loading model from: Artifacts/model.pkl
+[2024-12-28 09:29:31,363] 35 root - INFO - Loading object from: Artifacts/model.pkl
+[2024-12-28 09:29:31,532] 18 root - INFO - Loading preprocessor from: Artifacts/preprocessor.pkl
+[2024-12-28 09:29:31,533] 35 root - INFO - Loading object from: Artifacts/preprocessor.pkl
+[2024-12-28 09:29:31,534] 29 root - INFO - Preprocessing the data
+[2024-12-28 09:29:31,614] 48 root - INFO - Prediction successful
+[2024-12-28 09:29:31,634] 97 werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 09:29:31] "POST / HTTP/1.1" 200 -
+[2024-12-28 09:29:34,245] 97 werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 09:29:34] "GET / HTTP/1.1" 200 -
+[2024-12-28 09:29:39,958] 15 root - INFO - Loading model from: Artifacts/model.pkl
+[2024-12-28 09:29:39,959] 35 root - INFO - Loading object from: Artifacts/model.pkl
+[2024-12-28 09:29:40,138] 18 root - INFO - Loading preprocessor from: Artifacts/preprocessor.pkl
+[2024-12-28 09:29:40,139] 35 root - INFO - Loading object from: Artifacts/preprocessor.pkl
+[2024-12-28 09:29:40,140] 29 root - INFO - Preprocessing the data
+[2024-12-28 09:29:40,258] 48 root - INFO - Prediction successful
+[2024-12-28 09:29:40,281] 97 werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 09:29:40] "POST / HTTP/1.1" 200 -
+[2024-12-28 09:29:42,731] 97 werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 09:29:42] "GET / HTTP/1.1" 200 -
+[2024-12-28 09:29:43,955] 15 root - INFO - Loading model from: Artifacts/model.pkl
+[2024-12-28 09:29:43,956] 35 root - INFO - Loading object from: Artifacts/model.pkl
+[2024-12-28 09:29:44,190] 18 root - INFO - Loading preprocessor from: Artifacts/preprocessor.pkl
+[2024-12-28 09:29:44,192] 35 root - INFO - Loading object from: Artifacts/preprocessor.pkl
+[2024-12-28 09:29:44,194] 29 root - INFO - Preprocessing the data
+[2024-12-28 09:29:44,327] 48 root - INFO - Prediction successful
+[2024-12-28 09:29:44,350] 97 werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 09:29:44] "POST / HTTP/1.1" 200 -
+[2024-12-28 09:29:45,350] 97 werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 09:29:45] "GET / HTTP/1.1" 200 -
+[2024-12-28 09:31:23,497] 97 werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 09:31:23] "GET / HTTP/1.1" 200 -
+[2024-12-28 09:32:09,420] 97 werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 09:32:09] "GET / HTTP/1.1" 200 -
+[2024-12-28 09:33:25,090] 97 werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 09:33:25] "GET / HTTP/1.1" 200 -
+[2024-12-28 09:34:47,114] 97 werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 09:34:47] "GET / HTTP/1.1" 200 -
+[2024-12-28 09:37:31,134] 97 werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 09:37:31] "GET / HTTP/1.1" 200 -
+[2024-12-28 09:38:26,190] 97 werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 09:38:26] "GET / HTTP/1.1" 200 -
+[2024-12-28 09:38:54,148] 97 werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 09:38:54] "GET / HTTP/1.1" 200 -
+[2024-12-28 09:39:08,431] 15 root - INFO - Loading model from: Artifacts/model.pkl
+[2024-12-28 09:39:08,432] 35 root - INFO - Loading object from: Artifacts/model.pkl
+[2024-12-28 09:39:08,786] 18 root - INFO - Loading preprocessor from: Artifacts/preprocessor.pkl
+[2024-12-28 09:39:08,787] 35 root - INFO - Loading object from: Artifacts/preprocessor.pkl
+[2024-12-28 09:39:08,791] 29 root - INFO - Preprocessing the data
+[2024-12-28 09:39:08,888] 48 root - INFO - Prediction successful
+[2024-12-28 09:39:08,904] 97 werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 09:39:08] "POST / HTTP/1.1" 200 -
+[2024-12-28 09:39:11,306] 97 werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 09:39:11] "GET / HTTP/1.1" 200 -
+[2024-12-28 09:39:55,055] 15 root - INFO - Loading model from: Artifacts/model.pkl
+[2024-12-28 09:39:55,056] 35 root - INFO - Loading object from: Artifacts/model.pkl
+[2024-12-28 09:39:55,267] 18 root - INFO - Loading preprocessor from: Artifacts/preprocessor.pkl
+[2024-12-28 09:39:55,269] 35 root - INFO - Loading object from: Artifacts/preprocessor.pkl
+[2024-12-28 09:39:55,271] 29 root - INFO - Preprocessing the data
+[2024-12-28 09:39:55,440] 48 root - INFO - Prediction successful
+[2024-12-28 09:39:55,521] 97 werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 09:39:55] "POST / HTTP/1.1" 200 -
+[2024-12-28 09:39:58,405] 97 werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 09:39:58] "GET / HTTP/1.1" 200 -
